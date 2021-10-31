@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: FeRAM Company
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: A small comapny that create handcrafted electronic wall arts from old and iconic pocket gadgets.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# FeRAM Company - We feram your gizmos.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A small comapny that create handcrafted electronic wall arts from old and iconic pocket gadgets.
